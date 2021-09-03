@@ -13,13 +13,11 @@
     "react-scripts": "4.0.3",
     "react-tilt": "^0.1.4",
     "react-tsparticles": "^1.33.2",
-    "web-vitals": "^1.1.2"
-  },
-  
-  "devDependencies": {
+    "web-vitals": "^1.1.2",
     "tachyons": "^4.12.0"
+
   },
-  
+
   "engines": {
     "node": "14.17.0",
     "npm": "6.14.13"
